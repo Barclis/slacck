@@ -2555,11 +2555,11 @@ a.c-member_slug--mention, a.c-member_slug--mention:hover { background-color: #ff
 
 #fs_modal h1, #fs_modal h2, #fs_modal h3, #fs_modal h4, #fs_modal h5, #fs_modal h6 { color: #e6e6e6; }
 
-#fs_modal #fs_modal_sidebar a { color: #e6e6e6; }
+#fs_modal #fs_modal_sidebar a { color: #000; }
 
 #fs_modal #fs_modal_sidebar a:hover { background: #363636; }
 
-#fs_modal #fs_modal_sidebar a.active { background: #000; color: #e6e6e6; text-shadow: 0 1px 0 rgba(0, 0, 0, 0.15); }
+#fs_modal #fs_modal_sidebar a.active { background: #000; color: #000; text-shadow: 0 1px 0 rgba(0, 0, 0, 0.15); }
 
 #fs_modal .fs_modal_btn { color: rgba(230, 230, 230, 0.5); }
 
